@@ -2,12 +2,12 @@
 	"debug": false,
 	"beacons": [
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "DF7CB",
 			"path": "WIDE1-1",
-			"message": "LoRa Tracker",
+			"message": "Christoph JO31HI R10",
 			"timeout": 1,
-			"symbol": "[",
-			"overlay": "/",
+			"symbol": "o",
+			"overlay": "\\",
 			"smart_beacon": {
 				"active": true,
 				"turn_min": 25,
