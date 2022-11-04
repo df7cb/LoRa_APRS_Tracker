@@ -11,10 +11,10 @@
 			"smart_beacon": {
 				"active": true,
 				"turn_min": 25,
-				"slow_rate": 300,
+				"slow_rate": 120,
 				"slow_speed": 10,
-				"fast_rate": 60,
-				"fast_speed": 100,
+				"fast_rate": 30,
+				"fast_speed": 70,
 				"min_tx_dist": 100,
 				"min_bcn": 5
 			},
